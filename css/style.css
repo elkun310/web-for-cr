@@ -8,6 +8,7 @@
     left: 35%; 
     top: 40vh;
     -webkit-transition: all 0.1s ease-out;
+     white-space: pre-wrap;
   }
   #yes{
     position: absolute;
@@ -15,6 +16,7 @@
     left: 70%; 
     top: 40vh;
     -webkit-transition: all 0.3s ease-out;
+     white-space: pre-wrap;
   }
 #bg{
   position: fixed;
@@ -69,6 +71,7 @@ header h4 {
     font-size: 14px;
     padding: 3px;
     -webkit-transition: all 0.1s ease-out;
+    white-space: pre-wrap;
   }
   #yes{
     position: absolute;
@@ -78,5 +81,6 @@ header h4 {
     font-size: 14px;
     padding: 3px;
     -webkit-transition: all 0.3s ease-out;
+    white-space: pre-wrap;
   }
 }
